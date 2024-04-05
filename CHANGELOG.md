@@ -1,10 +1,11 @@
 # CHANGELOG
 
-## {DATE}
-### Contributors
+## 4/5/2024
+### Cyrus Gonzalez
 ...
 
-### Added
+### Added: 
+Added Lightshield Image
 ...
 
 ### Changed
